@@ -1,16 +1,22 @@
-## Hi there 👋
+# Bem-vindos ao meu perfil
+<!-- Esse arquivo quando publicado em um repositório com o mesmo nome do seu perfil aparecerá na páginal inicial do seu perfil
+Eu coloquei algumas ideias para voces completarem e vocês terão que adicionar mais uma seção de subtítulo e mais duas curiosidades sobre a vida de vocês-->
+## Quem sou eu?
+- 🧑‍🎓 Universidade Federal de Juiz de Fora
+- 🚀 Coordenador Recuperação - Supernova
+- 📫 <douglascarvalho.oliveira@estudante.ufjf.br>
 
-<!--
-**DG-programador/DG-programador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Coloque aqui mais um item na lista de aprensentação -->
+## Minha trajetória com programação:
+Fui introduzido na programação na faculdade pelo C++. Hoje tenho uma noção bastante ampla nessa própria linguagem,
+além de python e C.
 
-Here are some ideas to get you started:
+<!-- coloque aqui um testo bem curto sobre como vc começou a programar -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meus três maiores sonhos profissionais
+<!-- você vai ter que completar a sintaxe da lista ordenada para essa seção -->
+1. Sempre aprender! E nessa linha conseguir alcançar o reconhecimento da minha dedicação
+2. Conquista aquilo que não consegui conquistar (Tudo) 
+3. Através dos meus frutos viajar e desfrutar a vida
+
+<!-- Agora adiciona mais uma seção com um título secundário -->
